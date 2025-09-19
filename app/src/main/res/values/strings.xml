@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Swim Pool</string>
+    <string name="action_reset_camera">구로구 전체 보기</string>
+    <string name="info_phone_not_available">문의처 정보 없음</string>
+    <string name="info_description_not_available">설명 정보 없음</string>
+</resources>
